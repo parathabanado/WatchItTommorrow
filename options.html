@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Procrastinator Settings</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="options-page">
+    <div class="container">
+        <h1>Settings</h1>
+        <div class="setting-item">
+            <label for="pause-duration">Mindful Pause Duration (seconds):</label>
+            <input type="number" id="pause-duration" min="27">
+            <p class="description">Minimum pause duration is 27 seconds.</p>
+        </div>
+        <button id="save-btn">Save</button>
+        <div id="status-message"></div>
+    </div>
+    <script src="options.js"></script>
+</body>
+</html>
