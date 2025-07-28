@@ -36,6 +36,6 @@ To run this extension on your local machine for development or personal use, fol
   - Click the "Load unpacked" button that appears on the top-left.
   - In the file selection dialog, navigate to and select the project folder (the one containing manifest.json).
 - Done!
-  - The "YouTube Procrastinator" extension will now appear in your list of extensions and be active. You can pin it to your toolbar for easy access.
+  - The "Watch It Tomorrow" extension will now appear in your list of extensions and be active. You can pin it to your toolbar for easy access.
   -  If you make changes to the code, remember to click the reload icon on the extension's card in the chrome://extensions page to see your updates.
   
